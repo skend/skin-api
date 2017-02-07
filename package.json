@@ -1,0 +1,22 @@
+{
+  "name": "skin-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skend/skin-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skend/skin-api/issues"
+  },
+  "homepage": "https://github.com/skend/skin-api#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
